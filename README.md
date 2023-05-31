@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Opeyemi is a JavaScript developer with finesse for building functional and responsive web software applications
+Opeyemi is a Frontend developer with finesse for building functional and responsive web software applications
 
 * 🌍  I'm based in Lagos, Nigeria
-* 😄 Pronouns: He/Him
+* 😄  Pronouns: He/Him
 * ✉️  You can contact me at [opeyemiemmanuelbello@gmail.com](mailto:opeyemiemmanuelbello@gmail.com)
 * 🧠  I'm learning TypeScript and Next.js
 * 🤝  I'm open to collaborating on any open-source project
