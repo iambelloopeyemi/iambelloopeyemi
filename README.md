@@ -7,7 +7,6 @@ Frontend Developer
 Opeyemi is a Frontend developer with finesse for building functional and responsive web software applications
 
 * 🌍  I'm based in Lagos, Nigeria
-* 😄  Pronouns: He/Him
 * 🧠  I'm learning TypeScript and Next.js
 * 🤝  I'm open to collaborating on any open-source project
 * ⚡  Fun fact: I'm a Chartered Accountant
