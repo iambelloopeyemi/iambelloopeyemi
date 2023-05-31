@@ -8,7 +8,6 @@ Opeyemi is a Frontend developer with finesse for building functional and respons
 
 * 🌍  I'm based in Lagos, Nigeria
 * 😄  Pronouns: He/Him
-* ✉️  You can contact me at [opeyemiemmanuelbello@gmail.com](mailto:opeyemiemmanuelbello@gmail.com)
 * 🧠  I'm learning TypeScript and Next.js
 * 🤝  I'm open to collaborating on any open-source project
 * ⚡  Fun fact: I'm a Chartered Accountant
