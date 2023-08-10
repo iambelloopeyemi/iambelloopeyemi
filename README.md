@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Opeyemi Bello
 =====================================================================================================================================
 
-Frontend Developer
+Frontend Web Developer
 ------------------
 
-Opeyemi is a Frontend developer with finesse for building functional and responsive web software applications
+Opeyemi is a dedicated and pragmatic Frontend Web Developer, committed to delivering cost-effective solutions for business challenges through a diverse set of frontend web technologies. I excel as a collaborative team player, quick to grasp new technologies, adept at crafting high-quality code and committed to following best practices.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🧠  I'm learning Backend Web Development
