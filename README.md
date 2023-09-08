@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Developer
 ------------------
 
-Opeyemi is a value-driven Frontend Web Developer, dedicated to providing businesses with the utmost value through my extensive knowledge and skills in a diverse array of frontend web technologies. I excel as a collaborative team player, quick to grasp new technologies, adept at crafting high-quality code, and committed to following best practices.
+Opeyemi is a value-driven Frontend Web Developer, dedicated to providing the utmost value through my extensive knowledge and skills in a diverse array of frontend web technologies. I excel as a collaborative team player, quick to grasp new technologies, adept at crafting high-quality code, and committed to following best practices.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🧠  I'm learning Data Structures and Algorithm
@@ -30,6 +30,7 @@ Opeyemi is a value-driven Frontend Web Developer, dedicated to providing busines
 
 </p>
 
+<!--
 ### Socials
 
 <p align="left"> 
@@ -39,3 +40,4 @@ Opeyemi is a value-driven Frontend Web Developer, dedicated to providing busines
 </a>
 
 </p>
+-->
